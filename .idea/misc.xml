@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/TVShowApplication/TVShowSearch/app/src/main/res/layout/activity_alert_treectivity.xml" value="0.13880445795339413" />
+        <entry key="..\:/AndroidStudioProjects/TVShowApplication/TVShowSearch/app/src/main/res/layout/activity_main.xml" value="0.1458966565349544" />
+        <entry key="..\:/AndroidStudioProjects/TVShowApplication/TVShowSearch/app/src/main/res/layout/tree_item.xml" value="0.16168478260869565" />
+        <entry key="..\:/AndroidStudioProjects/TVShowApplication/TVShowSearch/app/src/main/res/layout/view_tree.xml" value="0.16168478260869565" />
         <entry key="..\:/AndroidStudioProjects/TVShowApplication/app/src/main/res/layout/activity_main.xml" value="0.27445652173913043" />
       </map>
     </option>

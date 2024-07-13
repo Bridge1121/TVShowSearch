@@ -3,13 +3,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:padding="10dp"
     tools:context=".MainActivity">
 
     <EditText
         android:id="@+id/channelEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter Channel"
+        android:hint="点击选择频道"
+        android:focusable="false"
+        android:clickable="true"
         android:padding="8dp" />
 
     <EditText
@@ -17,7 +20,9 @@
         android:layout_below="@id/channelEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter Date (YYYY-MM-DD)"
+        android:focusable="false"
+        android:clickable="true"
+        android:hint="点击选择日期"
         android:padding="8dp" />
 
     <Button
@@ -25,7 +30,7 @@
         android:layout_below="@id/dateEditText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Search"
+        android:text="搜索"
         android:layout_marginTop="16dp"
         android:padding="8dp" />
 
